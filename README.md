@@ -2,7 +2,7 @@
 
 This a love calculator made using python
 
-## How to run?
+## How to run
 
 - go to terminal and type
 - python <File_Name>
